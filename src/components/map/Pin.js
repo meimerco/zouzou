@@ -1,14 +1,14 @@
 import { Marker, Popup } from "react-leaflet";
-import markerIconPng from "leaflet/dist/images/marker-icon.png";
 import { Icon } from "leaflet";
 
-function Pin({ data: { position, name } }) {
+function Pin({ data: { position, name, activity } }) {
+  const iconUrl = require(`../../assets/icons/${activity.name}.svg`).default;
   return (
     <Marker
       position={position}
       icon={
         new Icon({
-          iconUrl: markerIconPng,
+          iconUrl,
           iconSize: [25, 41],
           iconAnchor: [12, 41],
         })
