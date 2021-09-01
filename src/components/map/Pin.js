@@ -5,7 +5,7 @@ function Pin({ data: { position, name, activity } }) {
   const iconUrl = require(`../../assets/icons/${activity.name}.svg`).default;
   return (
     <Marker
-      position={position}
+      position={position.split(";")}
       icon={
         new Icon({
           iconUrl,
