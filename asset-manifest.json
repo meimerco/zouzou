@@ -1,28 +1,27 @@
 {
   "files": {
     "main.css": "/static/css/main.aeb4be31.chunk.css",
-    "main.js": "/static/js/main.b54b893b.chunk.js",
-    "main.js.map": "/static/js/main.b54b893b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ba5a77ca.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ba5a77ca.js.map",
-    "static/css/2.da98c186.chunk.css": "/static/css/2.da98c186.chunk.css",
-    "static/js/2.56711fba.chunk.js": "/static/js/2.56711fba.chunk.js",
-    "static/js/2.56711fba.chunk.js.map": "/static/js/2.56711fba.chunk.js.map",
-    "static/js/3.61364808.chunk.js": "/static/js/3.61364808.chunk.js",
-    "static/js/3.61364808.chunk.js.map": "/static/js/3.61364808.chunk.js.map",
+    "main.js": "/static/js/main.085f7c79.chunk.js",
+    "main.js.map": "/static/js/main.085f7c79.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e8a59cc5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e8a59cc5.js.map",
+    "static/js/2.bc30d127.chunk.js": "/static/js/2.bc30d127.chunk.js",
+    "static/js/2.bc30d127.chunk.js.map": "/static/js/2.bc30d127.chunk.js.map",
+    "static/js/3.d1200e78.chunk.js": "/static/js/3.d1200e78.chunk.js",
+    "static/js/3.d1200e78.chunk.js.map": "/static/js/3.d1200e78.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.da98c186.chunk.css.map": "/static/css/2.da98c186.chunk.css.map",
     "static/css/main.aeb4be31.chunk.css.map": "/static/css/main.aeb4be31.chunk.css.map",
-    "static/js/2.56711fba.chunk.js.LICENSE.txt": "/static/js/2.56711fba.chunk.js.LICENSE.txt",
-    "static/media/climb.svg": "/static/media/climb.8f5094ff.svg",
-    "static/media/hike.svg": "/static/media/hike.023c226d.svg",
-    "static/media/surf.svg": "/static/media/surf.b5cdb4d8.svg"
+    "static/js/2.bc30d127.chunk.js.LICENSE.txt": "/static/js/2.bc30d127.chunk.js.LICENSE.txt",
+    "static/media/climb.svg": "/static/media/climb.9d4e29e2.svg",
+    "static/media/hike.svg": "/static/media/hike.8c217f48.svg",
+    "static/media/mountainbike.svg": "/static/media/mountainbike.4fe6e841.svg",
+    "static/media/surf.svg": "/static/media/surf.3e95a964.svg",
+    "static/media/windsurf.svg": "/static/media/windsurf.d5e12e5c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ba5a77ca.js",
-    "static/css/2.da98c186.chunk.css",
-    "static/js/2.56711fba.chunk.js",
+    "static/js/runtime-main.e8a59cc5.js",
+    "static/js/2.bc30d127.chunk.js",
     "static/css/main.aeb4be31.chunk.css",
-    "static/js/main.b54b893b.chunk.js"
+    "static/js/main.085f7c79.chunk.js"
   ]
 }
